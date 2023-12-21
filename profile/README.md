@@ -21,11 +21,20 @@ We make a mobile application named **Batin.Co** (). **Batin.Co** is an innovativ
 
 
 ## Our Model Performance
-Batin.Co model has been trained on (...) labeled Sentences and got (...) accuracy on test data
+Batin.Co model has been trained on 611 labeled Images and got 63% accuracy on test data.
 
 ## Guidance for running our model on local
-Make sure you intalled all this dependencies first on your local machine. You can use conda virtual env for making things easier with pip
-
+Make sure you intalled all this dependencies first on your local machine:
+1. tensorflow
+2. matplotlib.pyplot
+3. os
+4. tensorflow_hub
+   
+You can use on your local bash env for making things easier with pip. To run the model or test it you can try using on file test_run.ipynb that we have provided in this repository. You can use this following instruction to run it properly:
+1. Download test_run.ipynb, Batik_mobilenet.h5, and the Dataset
+2. Make sure these three files are on the same directory
+3. Run test_run.ipynb file
+   
 ## Library Used in Android Application
 
 ## Package Used in Node.js
