@@ -2,7 +2,7 @@
 
 Hi everyone!. Here is our repository for Bangkit 2023 Capstone project. Our team consist of 3 Machine Learning, 1 Android, and 2 Cloud Computing.
 
-## Our Knights
+## Our Soldiers
 
 |          Nama         | Bangkit-ID |       Path       |
 |:---------------------:|:----------:|:----------------:|
@@ -17,7 +17,8 @@ Hi everyone!. Here is our repository for Bangkit 2023 Capstone project. Our team
 We make a mobile application named **Batin.Co** (). **Batin.Co** is an innovative mobile applications designed for to find out the type of batik and its meaning. Provide users with a comprehensive tool to predict the type of Batik from its model. In the future, we have a plan to add a marketplace feature, so it can help to boost Batik's sales.
 
 ## Tech Stacks
-![Tech Capstone](https://github.com/BATIN-CO/.github/assets/116961113/0d7647b9-5ead-48ec-b35d-18439e990cf2)
+![Tech Capstone](https://github.com/BATIN-CO/.github/assets/116961113/49b9a13c-590d-4873-8be5-2b7e5809a786)
+
 
 ## Our Model Performance
 Batin.Co model has been trained on (...) labeled Sentences and got (...) accuracy on test data
@@ -26,6 +27,22 @@ Batin.Co model has been trained on (...) labeled Sentences and got (...) accurac
 Make sure you intalled all this dependencies first on your local machine. You can use conda virtual env for making things easier with pip
 
 ## Library Used in Android Application
+
+## Package Used in Node.js
+1.[@google-cloud/debug-agent](https://www.npmjs.com/package/@google-cloud/debug-agent)
+2.[@hapi/hapi](https://www.npmjs.com/package/@hapi/hapi)
+3.[@hapi/inert](https://www.npmjs.com/package/@hapi/inert)
+4.[axios](https://www.npmjs.com/package/axios)
+5.[form-data](https://www.npmjs.com/package/form-data)
+6.[multer](https://www.npmjs.com/package/multer)
+7.[mysql2](https://www.npmjs.com/package/mysql2)
+8.[nodemon](https://www.npmjs.com/package/nodemon)
+
+## Service Used in Google Cloud Platform
+1.[App Engine](https://cloud.google.com/appengine/docs/an-overview-of-app-engine)
+2.[Compute Engine](https://cloud.google.com/compute?hl=en)
+3.[Cloud Storage](https://cloud.google.com/storage/docs)
+4.[Cloud SQL](https://cloud.google.com/sql?hl=en)
 
 ## Fork Repository
 In order to duplicate our repository to become your repository on your own github account, you need to **fork** our repository
