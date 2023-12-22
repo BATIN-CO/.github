@@ -36,6 +36,11 @@ You can use on your local bash env for making things easier with pip. To run the
 3. Run test_run.ipynb file
    
 ## Library Used in Android Application
+1.[Android KTX](https://developer.android.com/kotlin/ktx?hl=id)</br>
+2.[Glide](https://github.com/bumptech/glide)</br>
+3.[CircleImageView](https://github.com/hdodenhof/CircleImageView)</br>
+4.[Retrofit](https://square.github.io/retrofit/)</br>
+5.[ImageCompressor](https://github.com/zetbaitsu/Compressor)</br>
 
 ## Package Used in Node.js
 1.[@google-cloud/debug-agent](https://www.npmjs.com/package/@google-cloud/debug-agent)</br>
