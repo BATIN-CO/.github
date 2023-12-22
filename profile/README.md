@@ -38,20 +38,20 @@ You can use on your local bash env for making things easier with pip. To run the
 ## Library Used in Android Application
 
 ## Package Used in Node.js
-1.[@google-cloud/debug-agent](https://www.npmjs.com/package/@google-cloud/debug-agent)
-2.[@hapi/hapi](https://www.npmjs.com/package/@hapi/hapi)
-3.[@hapi/inert](https://www.npmjs.com/package/@hapi/inert)
-4.[axios](https://www.npmjs.com/package/axios)
-5.[form-data](https://www.npmjs.com/package/form-data)
-6.[multer](https://www.npmjs.com/package/multer)
-7.[mysql2](https://www.npmjs.com/package/mysql2)
-8.[nodemon](https://www.npmjs.com/package/nodemon)
+1.[@google-cloud/debug-agent](https://www.npmjs.com/package/@google-cloud/debug-agent)</br>
+2.[@hapi/hapi](https://www.npmjs.com/package/@hapi/hapi)</br>
+3.[@hapi/inert](https://www.npmjs.com/package/@hapi/inert)</br>
+4.[axios](https://www.npmjs.com/package/axios)</br>
+5.[form-data](https://www.npmjs.com/package/form-data)</br>
+6.[multer](https://www.npmjs.com/package/multer)</br>
+7.[mysql2](https://www.npmjs.com/package/mysql2)</br>
+8.[nodemon](https://www.npmjs.com/package/nodemon)</br>
 
 ## Service Used in Google Cloud Platform
-1.[App Engine](https://cloud.google.com/appengine/docs/an-overview-of-app-engine)
-2.[Compute Engine](https://cloud.google.com/compute?hl=en)
-3.[Cloud Storage](https://cloud.google.com/storage/docs)
-4.[Cloud SQL](https://cloud.google.com/sql?hl=en)
+1.[App Engine](https://cloud.google.com/appengine/docs/an-overview-of-app-engine)</br>
+2.[Compute Engine](https://cloud.google.com/compute?hl=en)</br>
+3.[Cloud Storage](https://cloud.google.com/storage/docs)</br>
+4.[Cloud SQL](https://cloud.google.com/sql?hl=en)</br>
 
 ## Fork Repository
 In order to duplicate our repository to become your repository on your own github account, you need to **fork** our repository
